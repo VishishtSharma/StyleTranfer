@@ -14,7 +14,7 @@ For running the notebook on your local machine, following pre-requisites must be
 - Matplotlib
 - Tensorflow 2.4.1
 ### Installing
-After ensuring you have the above mentioned versions of Tensorflow and Python.
+Ensure you have the above mentioned versions of Tensorflow and Python.
 
 ## Authors
 * Vishisht Sharma
