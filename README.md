@@ -1,7 +1,7 @@
 
 # Implementation of Neural Style Tranfer using Tensorflow 2.4 (GPU)
 ## Abstract
-This is based on paper titled 'A Neural Algorithm of Artistic Style' by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge.
+This is based on the paper titled 'A Neural Algorithm of Artistic Style' by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge.
 ## Getting Started
 The 'StyleTranfer.ipynb' notebook can be run directly on Google Colab .
 Use GPU for faster processing
